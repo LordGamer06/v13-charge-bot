@@ -1,2 +1,2 @@
 # v13-charge-bot
-v13 Uptime Bot
+v13 Uptime Bot ( Slash Supported ) 🔋
